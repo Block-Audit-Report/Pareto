@@ -1,6 +1,7 @@
 # Pareto
 
-![pareto](https://user-images.githubusercontent.com/121312707/229463631-3cb33ccb-ef26-481a-a89c-2036810a7f13.png)
+
+![pareto](https://user-images.githubusercontent.com/121312707/229463731-f21eab43-1c13-410a-acd1-482f738d5da0.png)
 
 
 This repository was created by Official BlockAudit Team.
