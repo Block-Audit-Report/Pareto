@@ -1,8 +1,10 @@
 # Pareto
 
+![pareto](https://user-images.githubusercontent.com/121312707/229463631-3cb33ccb-ef26-481a-a89c-2036810a7f13.png)
+
+
 This repository was created by Official BlockAudit Team.
 
-![Certificate_PARETO](https://user-images.githubusercontent.com/86651339/146749261-db921f20-0999-40ca-8c72-9f40cc5a3e90.jpg)
 
 /**
  *Submitted for verification at BscScan.com on 2021-12-19
